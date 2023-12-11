@@ -1,4 +1,4 @@
--- Kz Ronin
+-- Kz Robin
 
 
 create database university;
